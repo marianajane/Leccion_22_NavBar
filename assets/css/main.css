@@ -1,0 +1,25 @@
+ul {
+	background-color: black;
+	font-family: helvetica;
+}
+
+li {
+	display: inline-block;
+	padding: 20px;
+	list-style: none;
+}
+
+a {
+	color: whitesmoke;
+	text-decoration: none;
+	padding: 10px;
+}
+
+a:hover {
+	color: orange;
+}
+
+span {
+	color: #DE146E;
+	margin: 0 100px;
+}
